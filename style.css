@@ -1,0 +1,64 @@
+.header {
+  background-Image: url("/Users/waterlvr22/Documents/Developer Projects/Dasmoto's Arts & Crafts/Project_Files/Image_Files/image1_pattern.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  font-family: Helvetica;
+  height: 100%;
+  width: 100%;
+  font-size: 50px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  display: inline;
+
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+.frames {
+  background-color: lightcoral;
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.paint {
+  background-color: skyblue;
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.blue {
+  font-family:Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+/*.header {
+  background-image: url ("/Users/waterlvr22/Documents/Developer Projects/Dasmoto's Arts & Crafts/Project Files/Image Files/image1_pattern.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  width:100%;
+  height:100%;
+}
+*/
